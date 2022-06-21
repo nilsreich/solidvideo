@@ -1,0 +1,13 @@
+{
+  "din5008": {
+    "title": "DIN5008",
+    "subtitle": "geschäftliche Briefe erstellen",
+    "svg": "/movie.mp4",
+    "situation": "Briefe nach der DIN5008 muessen bestimme vorschriften erfellen die in diesem video erkl'rt wernde. ausderem k;nnen so neue angelegt und bearbtitet werden die das weiter vorgehen der datei bestimmen",
+    "aufgabe": "Ein Projektantrag wird erstellt und als Brief an die Forschungsanstallt verschickt um weitere GElder zu erhalten. Deswegen werden nicht nur ein offizieller Birf, mit einem anhang der Projecktskizze verschickt.",
+    "files": {
+      "pdf": "din5008a.pdf",
+      "req": "din5008r.pdf"
+    }
+  }
+}
